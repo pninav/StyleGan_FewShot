@@ -23,6 +23,13 @@ CUDA_VISIBLE_DEVICES=0 python finetune.py --name DATASET_freezeD --mixing --loss
 # Note that feature_loc = 7 - layer_num
 ``` 
 
+Model checkpoints will be saved at:
+
+best.model - Weights of the model after training
+
+events.out.tfevents.1626202145.30fb0fe2d7a4.583.0 - Extraction of the training weights zip file
+
+
 ### Evaluation notebook:
 https://drive.google.com/file/d/1Nr0Dy5sOFbfKu7aYYekmpt_vpaq9BU4s/view?usp=sharing
 
