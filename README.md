@@ -5,7 +5,8 @@ https://drive.google.com/file/d/1UE0WMdxm_CyXLXVd8vMFuZdyl7aLt3Zi/view?usp=shari
 
 Its recommended that you mount your google drive for easier access to the checkpoint at the end of the training.
 Kaggle dataset will be downloaded and saved.
-You can view the selected 30 Monet images (done by choosing the farthest 30 points, after dimensionality reduction)
+
+You can view the selected 30 Monet images (done by choosing the farthest 30 points, after dimensionality reduction).
 
 I used the following pre-trained Gan model (FFHQ):
 https://drive.google.com/file/d/1QlXFPIOFzsJyjZ1AtfpnVhqW4Z0r8GLZ/view
