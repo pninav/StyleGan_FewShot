@@ -33,6 +33,6 @@ events.out.tfevents.1626202145.30fb0fe2d7a4.583.0 - Extraction of the training w
 ### Evaluation notebook:
 https://drive.google.com/file/d/1Nr0Dy5sOFbfKu7aYYekmpt_vpaq9BU4s/view?usp=sharing
 
-The evaluation is based on a CycleGAN model which is trained for about 16 hours. 
+The evaluation is based on a StyleGan model which is trained for about 16 hours. 
 
 You can view a sample of 30 generated images and the training graphs (from Tensorboard).
